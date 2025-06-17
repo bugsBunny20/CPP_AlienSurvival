@@ -67,8 +67,10 @@ No additional libraries required — the game is purely console-based.
 
 📷 Screenshots
 | Gameplay |
-|------|----------|---------------|------------|
+|----------|
 | ![gameplay](screenshots/gameplay.jpg) |
+
+
 🧠 Future Ideas
 
 - Difficulty levels
