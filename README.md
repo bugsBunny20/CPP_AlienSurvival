@@ -82,4 +82,4 @@ No additional libraries required — the game is purely console-based.
 
 📬 Contact
 
-Connect: https://www.linkedin.com/in/yourprofile
+Reach out via [LinkedIn] https://www.linkedin.com/in/arti-lanke/
