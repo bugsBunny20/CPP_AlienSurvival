@@ -66,9 +66,9 @@ No additional libraries required — the game is purely console-based.
 └── README.txt
 
 📷 Screenshots
-
-(Add a terminal screenshot of gameplay here if desired)
-
+| Gameplay |
+|------|----------|---------------|------------|
+| ![gameplay](screenshots/gameplay.jpg) |
 🧠 Future Ideas
 
 - Difficulty levels
